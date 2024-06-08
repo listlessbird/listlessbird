@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; inset: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/listlessbird/listlessbird/assets/124798751/27a36a85-a5a8-4af5-aaf5-1f2fd42b1ca2');background-repeat: no-repeat;]{x0000}$}
+\ce{$\&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; inset: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/listlessbird/listlessbird/assets/124798751/27a36a85-a5a8-4af5-aaf5-1f2fd42b1ca2');background-repeat: no-repeat;]{x0000}$}
 
